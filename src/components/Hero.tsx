@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8">
             <img 
-              src="./me.jpg" 
+              src="/images/me.jpg" 
               alt="Professional headshot"
               className="w-32 h-32 rounded-full mx-auto mb-6 shadow-lg"
             />
