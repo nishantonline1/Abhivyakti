@@ -56,7 +56,7 @@ const Experience = () => {
               <p className="text-gray-600">November 2017 - Present</p>
             </div>
             <img 
-              src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=200"
+              src="./logo512.png"
               alt="Corporate building"
               className="w-24 h-24 rounded-lg shadow-md"
             />

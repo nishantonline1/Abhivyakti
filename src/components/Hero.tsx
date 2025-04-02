@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center">
           <div className="mb-8">
             <img 
-              src="https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&q=80&w=200&h=200" 
+              src="./me.jpg" 
               alt="Professional headshot"
               className="w-32 h-32 rounded-full mx-auto mb-6 shadow-lg"
             />

@@ -14,7 +14,7 @@ function App() {
       <Header />
       <main className="container mx-auto px-4 py-8">
         <Hero />
-        <Projects />
+        {/* <Projects /> */}
         <Experience />
         <Skills />
         <Education />
